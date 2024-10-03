@@ -1,4 +1,7 @@
 # Car Price Prediction Project
+
+To see the project open the ipynb file in preview mode 
+
 ## Overview
 This project involves predicting car prices using a dataset containing information about various car attributes. The goal is to build a linear regression model to estimate the selling price of cars based on features like fuel type, seller type, transmission type, and more.
 
